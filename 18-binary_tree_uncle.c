@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_uncle - a function that checks if a function is uncle of a node
+ * binary_tree_uncle - a function that checks if a function is kin of a node
  * @node: a pointer to node to find uncle
  *
  * Return: NULL if node doesn't exist or is NULL
