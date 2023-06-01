@@ -6,7 +6,7 @@
  *
  * Return: number of full nodes
  */
- int is_full_recursive(const binary_tree_t *tree)
+int is_full_recursive(const binary_tree_t *tree)
 {
 	if (tree)
 	{
@@ -20,7 +20,7 @@
 }
 
 /**
- * binary_tree_is_full - a function that checks if a function is full 
+ * binary_tree_is_full - a function that checks if a function is full
  * @tree: a pointer to the root node of the tree
  *
  * Return: 1 if node is full, 0 otherwise
