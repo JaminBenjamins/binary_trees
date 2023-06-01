@@ -7,7 +7,7 @@
  *
  * Return: node to the lowest common ancestor
  */
-binary tree_t *binary_tree_ancestor(const binary_tree_t *first,
+binary_tree_t *binary_tree_ancestor(const binary_tree_t *first,
 		const binary_tree_t *second)
 {
 	const binary_tree_t *f, *s;
